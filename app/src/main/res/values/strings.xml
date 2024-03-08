@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeDynamicFeatureBug</string>
+    <string name="title_dynamicfeature">DynamicFeature1</string>
+    <string name="title_dynamicfeature2">Dynamic Feature 2</string>
+</resources>
